@@ -1,6 +1,3 @@
-# Chi-Limited-Seasonal-Analysis
-Supply chain analytics project for CHI Limited (Chivita|Hollandia) 
-=======
 # 📊 Seasonal & Promotional Impact Analysis
 ## CHI Limited (Chivita|Hollandia) Case Study
 
