@@ -151,3 +151,4 @@ data/raw/*.csv
 Thumbs.db
 .DS_Store
 
+chi_limited.db
