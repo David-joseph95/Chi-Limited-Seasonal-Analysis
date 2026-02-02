@@ -152,3 +152,6 @@ Thumbs.db
 .DS_Store
 
 chi_limited.db
+
+# Ignore processed / derived datasets
+data/processed/features_with_lags.csv
