@@ -386,6 +386,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+## Data
+Processed feature datasets are generated locally and excluded from version control.  
+Run the feature engineering pipeline to reproduce results.
+
+
 <div align="center">
 
 **⭐ If you find this project useful, please consider giving it a star! ⭐**
